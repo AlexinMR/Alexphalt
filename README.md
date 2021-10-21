@@ -17,3 +17,4 @@ If you crash into another car, you lose; the high scores for that session and a 
 <h3>Preview</h3>
 
 ![start menu](/images/Alexphalt_start.png)
+![crash](/images/Alexphalt_crash.png)
