@@ -15,3 +15,5 @@ Includes collision detection, animations, multiple difficulty settings, win/lose
 If you crash into another car, you lose; the high scores for that session and a restart button will both be displayed.
 <p>&nbsp;</p>
 <h3>Preview</h3>
+
+![start menu](/images/Alexphalt_start.png)
