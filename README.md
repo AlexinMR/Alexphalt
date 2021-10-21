@@ -1,5 +1,6 @@
 # Alexphalt
-Made in the Processing language, this simple racing game asks the player dodge and weave through traffic in order to reach a score threshhold. 
+Made in the Processing language, this simple driving game asks the player to dodge and weave through traffic in order to survive and reach a score threshhold. Cars will randomly spawn off-screen and drive on-screen from one of the 5 lanes. The player is free to move in any direction, but cannot go out of bounds.
+
 Includes collision detection, animations, multiple difficulty settings, win/lose conditions, scoreboard, and infinite mode.
 
 ### Goal: 
@@ -16,5 +17,7 @@ If you crash into another car, you lose; the high scores for that session and a 
 <p>&nbsp;</p>
 <h3>Preview</h3>
 
-![start menu](/images/Alexphalt_start.png)
-![crash](/images/Alexphalt_crash.png)
+![start menu](/images/Alexphalt_start.PNG)
+![driving](/images/Alexphalt_driving.png)
+![crash](/images/Alexphalt_crash.PNG)
+![You win!](/images/Alexphalt_win.PNG)
